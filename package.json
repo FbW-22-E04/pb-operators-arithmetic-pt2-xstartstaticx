@@ -10,5 +10,8 @@
     "type": "git",
     "url": "https://github.com/DigitalCareerInstitute/PB-operators-arithmetic-pt2",
     "id": 201013981
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
